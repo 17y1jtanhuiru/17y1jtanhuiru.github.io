@@ -5,5 +5,6 @@ p{
  color: midnightblue;
 }
 *{
- font-size: arial;
+ font-size: 18px;
+ font-family: arial;
 }
